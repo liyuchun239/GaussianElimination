@@ -11,8 +11,8 @@
 #ifndef GAUSSIANELIMINATION_H_
 #define GAUSSIANELIMINATION_H_
 
-#include "stdio.h"
-#include "stdlib.h"
+#include <stdio.h>
+#include <stdlib.h>
 
 #define MAXDIM 1024
 
